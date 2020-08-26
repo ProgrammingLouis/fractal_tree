@@ -5,7 +5,7 @@ Play around with the tree parameters to create all different types of fractal tr
 ## Setup
 Put the exe file on an empty folder.
 When you first launch the application 2 json file should appear in the application folder. These files are parameters for the windows and the tree.
-By default the app window stay black and freezed until the tree is generated
+By default the app window stay black and freeze until the tree is generated
 
 ### Window parameters
 The win_params.json file let you change the default height and width of the window. When you make a change on this file save it and relaunch the app to see the changes. Please notice that this is just the default window resolution, you can resize the window whenever you want and wait for the tree to be recalculated.
