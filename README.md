@@ -12,7 +12,7 @@ The win_params.json file let you change the default height and width of the wind
 
 ### Tree parameters
 The tree_params.json file let you change the tree aspect to create many different types of trees.
-You don't no to restart the app when making a change in this file. You can change values in this file, save it, click on the app window and press F5 to generate a tree with the new parameters.
+You don't need to restart the app when making a change in this file. You can change values in this file, save it, click on the app window and press F5 to generate a tree with the new parameters.
 
 Here are describe all the parameters
 | Param Name  | Default Value  | Recommended values | Description |
