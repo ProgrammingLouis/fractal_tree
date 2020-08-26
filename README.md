@@ -11,7 +11,7 @@ By default the app window stay black and freeze until the tree is generated
 The win_params.json file let you change the default height and width of the window. When you make a change on this file save it and relaunch the app to see the changes. Please notice that this is just the default window resolution, you can resize the window whenever you want and wait for the tree to be recalculated.
 
 ### Tree parameters
-The tree_params.json file let you change the tree aspect to create many different types of treees.
+The tree_params.json file let you change the tree aspect to create many different types of trees.
 You don't no to restart the app when making a change in this file. You can change values in this file, save it, click on the app window and press F5 to generate a tree with the new parameters.
 
 Here are describe all the parameters
