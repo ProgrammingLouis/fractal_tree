@@ -3,7 +3,7 @@
 Play around with the tree parameters to create all different types of fractal tree.
 
 ## Setup
-Put the exe file on an empty folder.
+run the main.py script to start the app.
 When you first launch the application 2 json file should appear in the application folder. These files are parameters for the windows and the tree.
 By default the app window stay black and freeze until the tree is generated
 
